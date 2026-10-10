@@ -4,6 +4,12 @@
 
 Este projeto consiste em uma aplicação web desenvolvida com Python, Pandas, Plotly Express e Streamlit para explorar dados de anúncios de veículos.
 
+## Aplicativo publicado
+
+Acesse a aplicação web pelo link abaixo:
+
+[Análise de anúncios de veículos — Streamlit](https://vehicles-data-analysis-uvmi.onrender.com/)
+
 ## Funcionalidades
 
 - Visualização de um histograma da quilometragem dos veículos.
